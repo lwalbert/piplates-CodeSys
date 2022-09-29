@@ -40,7 +40,8 @@ GPIO25 from Raspberry PI should be cuted and isolated (no connection to Pi-Plate
   * 1 GPIO Ribbon Cable (40 pins F/F) 20cm
 
 Modified ribbon cable with optocoupler:
-![IMG_5109](https://user-images.githubusercontent.com/64552548/193050669-a70e5a71-69af-4d87-b367-62f5f8d08f28.jpg)
+![IMG_5109](https://user-images.githubusercontent.com/64552548/193148905-6aff5ea1-eb8c-4393-b7e8-2219a8142c31.jpg)
+
 
 OPTOCOUPLER CONNECTIONS:
 * OPTO PIN 1   : GREEN  : (SPI_CE1_N)/GPIO07 PIN 26  - Chip select
