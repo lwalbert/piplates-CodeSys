@@ -9,7 +9,7 @@ Supports the following Pi-Plates:
   * PiPlate DAQC 
             (https://pi-plates.com/daqcr1/)
     - Reads digital input (8 channels)
-    - Reads analogue input (8 channels)
+    - Reads analogue input (8 channels) AI2-8 range 0..1023 except for AI1 0..255
     - Writes to digital output (7 channels)
     - Writes to analogue output (2 channels)
             
