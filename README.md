@@ -8,6 +8,7 @@ Supports the following Pi-Plates:
   * PiPlate RELAY
             (https://pi-plates.com/relayr1/)
   * PiPlate MOTOR
+            (https://pi-plates.com/motorr1/)
 
 Interface cable between Raspberry PI an the Pi-Plates need a small modification to control communication. 
 RPI GPIO25 Out are required by Pi-Plates to initiate read from SPI bus. 
