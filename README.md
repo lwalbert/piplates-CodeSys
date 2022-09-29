@@ -19,4 +19,15 @@ GPIO25 from Raspberry PI should be cuted and isolated (no connection to Pi-Plate
   * 1 Resistor
   * 1 GPIO Ribbon Kabel (40 pins F/F) 20cm
 
+Picture from Codesys online mode:
 <img width="1303" alt="Codesys-OnlineMonitor" src="https://user-images.githubusercontent.com/64552548/193023778-b9487b74-82be-4bc2-86b5-645439a2bc02.png">
+
+
+Video of CodeSYS webvisu HMI:
+
+https://user-images.githubusercontent.com/64552548/193028341-41c806b2-f4a2-47df-9bd2-c1bd9728c1eb.MOV
+
+Video of pI-Plates IO when IO-Simulator function block running:
+
+https://user-images.githubusercontent.com/64552548/193028549-745137fe-9472-471a-a130-65dd0721c518.MOV
+
