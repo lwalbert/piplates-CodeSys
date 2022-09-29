@@ -1,7 +1,7 @@
 # piplates-CodeSys
 Library files and hardware description files to enable SPI communication for Pi-Plates in CodeSYS
 Supports the following Pi-Plates:
-  * PiPlate DAQC
+  * PiPlate DAQC https://pi-plates.com/daqc-users-guide/
   * PiPlate DAQC2
   * PiPlate RELAY
   * PiPlate MOTOR
