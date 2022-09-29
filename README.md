@@ -5,7 +5,7 @@ I Started this project back in 2019 developing libraries for Pi-Plates in CodeSY
 The library and hardware description files enables SPI communication for Pi-Plates in CodeSYS.
 Several Pi-Plates can be stacked and addressed in CodeSYS, tested with 5 Pi-Plates.
 
-Version:
+CodeSYS version:
   * CODESYS V3.5 SP18 Patch 2 + (32-bit)
   * CODESYS Control for Raspberry PI_SL 4.5.0.0
 
