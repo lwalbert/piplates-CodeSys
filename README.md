@@ -1,4 +1,4 @@
-# piplates-CodeSys 
+# piplates CodeSys 
 Connect your Pi-Plates to CodeSYS runtime on Raspberry PI
 
 I Started this project back in 2019 developing libraries for Pi-Plates in CodeSYS.
