@@ -1,14 +1,30 @@
-# piplates-CodeSys
-Library files and hardware description files to enable SPI communication for Pi-Plates in CodeSYS
+# piplates-CodeSys 
+Connect your Pi-Plates to CodeSYS runtime on Raspberry PI
+
+I Started this project back in 2019 developing libraries for Pi-Plates in CodeSYS.
+The library and hardware description files enables SPI communication for Pi-Plates in CodeSYS.
+Several Pi-Plates can be stacked and addressed in CodeSYS, tested with 5 Pi-Plates.
+
 Supports the following Pi-Plates:
   * PiPlate DAQC 
             (https://pi-plates.com/daqcr1/)
+    - Reads digital input (8 channels)
+    - Reads analogue input (8 channels)
+    - Writes to digital output (7 channels)
+    - Writes to analogue output (2 channels)
+            
   * PiPlate DAQC2
             (https://pi-plates.com/daqc2r1/)
+    - Not completed yet as my board broke down, So still some work to be done here!!
+    
   * PiPlate RELAY
             (https://pi-plates.com/relayr1/)
+    - Writes digital output (7 channels)
+    - Reads the digital outputs status (7 channels)
+  
   * PiPlate MOTOR
             (https://pi-plates.com/motorr1/)
+    - Dont remember how far i got with this one :)
 
 Interface cable between Raspberry PI an the Pi-Plates need a small modification to control communication. 
 RPI GPIO25 Out are required by Pi-Plates to initiate read from SPI bus. 
