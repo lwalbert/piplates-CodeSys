@@ -47,7 +47,7 @@ OPTOCOUPLER CONNECTIONS:
 * OPTO PIN 1   : GREEN  : (SPI_CE1_N)/GPIO07 PIN 26  - Chip select
 * OPTO PIN 2&3 : BLUE   : GND PIN 25 - Ground
 * OPTO PIN 4   : WHITE  : GPIO25 PIN 22 - CUT AND ISOLATE TOWARDS RASPBERRY PI
-* 1K RESISTOR  : YELLOW : 3V3 PIN 17 - CONNECT TO OPTO PIN 4/GPIO25
+* 1K RESISTOR  : YELLOW : 3V3 PIN 17 - CONNECT TO OPTO PIN 4/GPIO25 wire to Pi-Plate
 
 Picture from Codesys online mode:
 <img width="1303" alt="Codesys-OnlineMonitor" src="https://user-images.githubusercontent.com/64552548/193023778-b9487b74-82be-4bc2-86b5-645439a2bc02.png">
