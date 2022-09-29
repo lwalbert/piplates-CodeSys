@@ -5,6 +5,10 @@ I Started this project back in 2019 developing libraries for Pi-Plates in CodeSY
 The library and hardware description files enables SPI communication for Pi-Plates in CodeSYS.
 Several Pi-Plates can be stacked and addressed in CodeSYS, tested with 5 Pi-Plates.
 
+Version:
+  * CODESYS V3.5 SP18 Patch 2 + (32-bit)
+  * CODESYS Control for Raspberry PI_SL 4.5.0.0
+
 Supports the following Pi-Plates:
   * PiPlate DAQC 
             (https://pi-plates.com/daqcr1/)
@@ -33,7 +37,11 @@ so an optocoupler needs to be installed on the interface cable between CS1 (chip
 GPIO25 from Raspberry PI should be cuted and isolated (no connection to Pi-Plates)
   * 1 Optocoupler
   * 1 Resistor
-  * 1 GPIO Ribbon Kabel (40 pins F/F) 20cm
+  * 1 GPIO Ribbon Cable (40 pins F/F) 20cm
+
+Modified ribbon cable with optocoupler:
+![IMG_5109](https://user-images.githubusercontent.com/64552548/193034228-8e3185cb-ce57-437e-9c20-7f8ff81b1a28.JPG)
+
 
 Picture from Codesys online mode:
 <img width="1303" alt="Codesys-OnlineMonitor" src="https://user-images.githubusercontent.com/64552548/193023778-b9487b74-82be-4bc2-86b5-645439a2bc02.png">
