@@ -41,8 +41,10 @@ GPIO25 from Raspberry PI should be cuted and isolated (no connection to Pi-Plate
 
 Modified ribbon cable with optocoupler:
 ![IMG_5109](https://user-images.githubusercontent.com/64552548/193050669-a70e5a71-69af-4d87-b367-62f5f8d08f28.jpg)
-
-
+GREEN  : (SPI_CE1_N)/GPIO07 PIN 26  - Chip select
+BLUE   : GND PIN 25 - Ground
+WHITE  : GPIO25 PIN 22 - CUT AND ISOLATE TOWARDS RASPBERRY PI
+YELLOW : 3V3 PIN 17
 
 Picture from Codesys online mode:
 <img width="1303" alt="Codesys-OnlineMonitor" src="https://user-images.githubusercontent.com/64552548/193023778-b9487b74-82be-4bc2-86b5-645439a2bc02.png">
