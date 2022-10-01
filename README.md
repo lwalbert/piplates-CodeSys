@@ -34,7 +34,7 @@ Interface cable between Raspberry PI an the Pi-Plates need a small modification 
 RPI GPIO25 Out are required by Pi-Plates to initiate read from SPI bus. 
 Unfortunately GPIO´s cannot be controlled outside a task in CodeSYS eg. within the library, 
 so an optocoupler needs to be installed on the interface cable between CS1 (chip select) and GPIO25 wire towards the Pi-Plates.
-GPIO25 from Raspberry PI should be cuted and isolated (no connection from RPI to Pi-Plates)
+GPIO25 from Raspberry PI should be cutted and isolated (no connection from RPI to Pi-Plates)
   * 1 Optocoupler PC817 (https://components101.com/ics/pc817-ic-pinout-equivalent-datasheet))
   * 1 Resistor 1K ohm
   * 1 GPIO Ribbon Cable (40 pins F/F) 20cm
